@@ -1,6 +1,6 @@
 public class Test {
 
     public static void main(String[] args) {
-        System.out.println("Hello TOUT LE MONDE");
+        System.out.println("Hello a tout le monde");
     }
 }
